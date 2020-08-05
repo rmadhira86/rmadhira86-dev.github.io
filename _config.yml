@@ -93,10 +93,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "Manohar Madhira"
+  avatar           : "/assets/images/mm_profile.png"
+  bio              : "Technologist, passionate about all round development"
+  location         : "Greater Seattle Area, WA, USA"
   email            :
   links:
     - label: "Email"
@@ -104,7 +104,7 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      # url: "https://rmadhira86.github.io/tidbits"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
