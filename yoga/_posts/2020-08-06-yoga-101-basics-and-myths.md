@@ -25,8 +25,8 @@ Yoga, like any other exercise, should be taken up with care if you have specific
 Good Yoga practice is a combination of breathing exercies (*pranayama*), physical poses (*asanas*) and meditation techniques (*dhyana*).
 
 ### Myth #4 - You must go shopping before you start Yoga.
-While Yoga Mats, Yoga Pants, and Yoga suits are all the rave in marketing, you can do Yoga without these. You work with your breath, body weight, and your mind - you do not need any other equipment. 
-**Yoga Mats** provide a non-slippery partially cushioned surface. While a yoga mat can help, any non-slippery, lightly cushioned mat would work. Some alternatives are: Beach Towel, Woven Blankets / Comforters, Bath Mat, or non-Slippery bedsheet on a carpet floor. You can also do Yoga on grass, sand if you are outside. Yoga outside is especially great for breathing exercises.
+While Yoga Mats, Yoga Pants, and Yoga suits are all the rave in marketing, you can do Yoga without these. You work with your breath, body weight, and your mind - you do not need any other equipment.  
+**Yoga Mats** provide a non-slippery partially cushioned surface. While a yoga mat can help, any non-slippery, lightly cushioned mat would work. Some alternatives are: Beach Towel, Woven Blankets / Comforters, Bath Mat, or non-Slippery bedsheet on a carpet floor. You can also do Yoga on grass, sand if you are outside. Yoga outside is especially great for breathing exercises.  
 **Yoga Clothing** - any loose and comfortable clothing works well for Yoga. It is best to wear clothing that can be tied at the waist - to avoid slips.
 
 ### Myth #5 - Yoga preaches Hinduism.
