@@ -11,7 +11,7 @@ tags:
   - asanas
 ---
 
-Yoga has been around for a few thousand years and has many branches and disciplines. As a natural extension of this historical presence, and developed a mystery and suspense - especially for a newcomer to Yoga. In this post, I will bust some common myths, explore the benefits, and provide the general rules to follow before starting a Yoga practice.  
+Yoga has been around for a few thousand years and has many branches and disciplines. As a natural extension of this historical presence, Yoga has developed a mystic and suspense - especially for a newcomer. In this post, I will bust some common myths, explore the benefits, and provide the general rules to follow before starting a Yoga practice.  
 
 <!--more-->
 ## Yoga Mythbusters
